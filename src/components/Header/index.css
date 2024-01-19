@@ -1,0 +1,32 @@
+/* Write your CSS code here */
+nav {
+  height: 10vh;
+  width: 80vw;
+  padding-left: 30px;
+  padding-right: 30px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-size: 17px;
+  font-weight: 700;
+  font-family: roboto;
+  color: #12022f;
+  justify-self: flex-start;
+  align-self: flex-start;
+}
+.heading {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  width: 6vw;
+}
+.tabs {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  width: 15vw;
+}
+.icon {
+  height: 35px;
+  width: 35px;
+}
